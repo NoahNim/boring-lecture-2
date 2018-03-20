@@ -19,3 +19,9 @@ img.intro {
   margin: 10px 0 10px 100px;
   width: 50%;
 }
+.no-border {
+
+}
+.add-border {
+  border: 5px solid #5ea363;
+}
